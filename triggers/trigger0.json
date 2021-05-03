@@ -14,7 +14,7 @@
         "full_document_before_change": false,
         "unordered": true
     },
-    "disabled": true,
+    "disabled": false,
     "event_processors": {
         "AWS_EVENTBRIDGE": {
             "type": "AWS_EVENTBRIDGE",
