@@ -14,7 +14,6 @@
         "full_document_before_change": false,
         "unordered": true
     },
-    "function_name": "onChange",
     "disabled": true,
     "event_processors": {
         "AWS_EVENTBRIDGE": {
